@@ -19,7 +19,7 @@ Disciplina dos Cursos de *Ciências da Computação* e afins da [**UNINOVE**](ht
 * Yuri Santana Cordeiro - 3018101849
 
 ## Como usar esse conteúdo?
-Para usar este conteudo, baixe o dataset citado abaixo e o execute no collab.
+Para utilizar este conteúdo, baixe o dataset citado abaixo e o execute no collab.
 
 ## Notebook
 
