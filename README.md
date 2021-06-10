@@ -24,10 +24,10 @@ Disciplina dos Cursos de *Ciências da Computação* e afins da [**UNINOVE**](ht
 
 * **Jupyter Notebook**  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#PATHTONOTEBOOK)
  
-### Dataset Utilizado
+## Dataset Utilizado
 
 * **Popularity of games on Steam** - Michal Bogacz (https://www.kaggle.com/michau96/popularity-of-games-on-steam)
 
 ## Orientação
-**Storopoli (2020). Ciência de Dados com Python:** pandas, matplotlib, Scikit-Learn, TensorFlow e PyTorch: Ciência de Dados. Retrieved from https://storopoli.io/ciencia-de-dados
+* **Storopoli (2020). Ciência de Dados com Python:** pandas, matplotlib, Scikit-Learn, TensorFlow e PyTorch: Ciência de Dados. Retrieved from https://storopoli.io/ciencia-de-dados
 
