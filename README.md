@@ -22,8 +22,7 @@ Disciplina dos Cursos de *Ciências da Computação* e afins da [**UNINOVE**](ht
 Para utilizar este conteúdo, baixe o dataset citado abaixo e o execute no collab.
 
 ## Notebook
-
-* **Jupyter Notebook**  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1L5dM30Ply-BgqUD1f3lWCU7IflFNCrNH?usp=sharing)
+* **Jupyter Notebook**  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SrZecks/data-science-steam/blob/main/notebook.ipynb
  
 ## Dataset Utilizado
 
