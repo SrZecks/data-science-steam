@@ -19,6 +19,7 @@ Disciplina dos Cursos de *Ciências da Computação* e afins da [**UNINOVE**](ht
 * Yuri Santana Cordeiro - 3018101849
 
 ## Como usar esse conteúdo?
+Para usar este conteudo, baixe o dataset citado abaixo e o execute no collab.
 
 ## Notebook
 
@@ -29,5 +30,5 @@ Disciplina dos Cursos de *Ciências da Computação* e afins da [**UNINOVE**](ht
 * **Popularity of games on Steam** - Michal Bogacz (https://www.kaggle.com/michau96/popularity-of-games-on-steam)
 
 ## Orientação
-* **Storopoli (2020). Ciência de Dados com Python:** pandas, matplotlib, Scikit-Learn, TensorFlow e PyTorch: Ciência de Dados. Retrieved from https://storopoli.io/ciencia-de-dados
+**Storopoli (2020). Ciência de Dados com Python:** pandas, matplotlib, Scikit-Learn, TensorFlow e PyTorch: Ciência de Dados. Retrieved from https://storopoli.io/ciencia-de-dados
 
