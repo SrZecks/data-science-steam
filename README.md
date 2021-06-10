@@ -12,11 +12,11 @@ Disciplina dos Cursos de *Ciências da Computação* e afins da [**UNINOVE**](ht
 
 ## Membros do grupo
 
-Gustavo Borges Galdino da Silva - 317203137
-Lucas da Rocha Gomes - 418104311
-Rodrigo Takeshi Shimizu - 418107522
-Vinicius do Santos Andrade - 418104967
-Yuri Santana Cordeiro - 3018101849
+* Gustavo Borges Galdino da Silva - 317203137
+* Lucas da Rocha Gomes - 418104311
+* Rodrigo Takeshi Shimizu - 418107522
+* Vinicius do Santos Andrade - 418104967
+* Yuri Santana Cordeiro - 3018101849
 
 ## Como usar esse conteúdo?
 
